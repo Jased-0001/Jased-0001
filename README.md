@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 📫 Reach me on Discord.
 
-- I got a website ***http://jased.site/***
+- I got a website ***http://jased.xyz/***
 
 <!---
 Jased-0001/Jased-0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
