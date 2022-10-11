@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Jase!
-- 👀 I’m interested in coding and web-game development
-- 🌱 I’m currently learning Python
-- 📫 Reach me on Discord.
+froggit coder
 
-- I got a website ***http://jased.xyz/***
+***http://jased.xyz/***
 
 <!---
 Jased-0001/Jased-0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
